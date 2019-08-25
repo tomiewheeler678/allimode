@@ -65,3 +65,5 @@ group :development, :test do
 end
 
 gem 'jquery-rails'
+
+gem 'paloma', '~> 5.1.0'
